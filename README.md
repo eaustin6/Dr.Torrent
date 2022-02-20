@@ -74,7 +74,8 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 ---<br>
 /tar: This Command can be used with Direct download link or Telegram Files or Google Drive Link to pack them into .tar format.<br>
 ---<br>
-/zip [download_url][magnet_link]: Start mirroring and upload the archived (.zip) version of the download<br>
+/zip: This Command can be used with Direct download link or Telegram Files or Google Drive Link to pack them into .zip format.<br>
+---<br>
 /unzip [download_url][magnet_link]: Starts mirroring and if downloaded file is any archive, extracts it to Google Drive<br>
 /clone [drive_url]: Copy file/folder to Google Drive<br>
 /count [drive_url]: Count file/folder of Google Drive Links<br>
