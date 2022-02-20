@@ -68,9 +68,9 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 ---<br>
 /mirror: This Command can be used as reply for Torrent File/Magnet Link or Direct Download Link or Telegram files to download them and to upload it to Google Drive. If used for downloading torrents then it will use aric as the Download Engine.<br>
 ---<br>
-/mirror qb: This command can only be used for Torrents! It will guide Bot to use qBitorrent to download torrent either from file or Magnet Link.
+/mirror qb: This command can only be used for Torrents! It will guide Bot to use qBitorrent to download torrent either from file or Magnet Link.<br>
 ---<br>
-/mirror qbs: This command will guide Bot to use qBitorrent to download Torrent and provide Users choice to Select files before downloading it from Torrent.
+/mirror qbs: This command will guide Bot to use qBitorrent to download Torrent and provide Users choice to Select files before downloading it from Torrent.<br>
 ---<br>
 /tar: This Command can be used with Direct download link or Telegram Files or Google Drive Link to pack them into .tar format.<br>
 ---<br>
