@@ -125,3 +125,5 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 /exechelp: Get help for Executor module (Only Owner)<br>
 ---<br>
 /gdtot: Send GDTOT link along with command <br></b></h4>
+<h2>🖥️ How to use?</h2>
+<h4><b>There is no need to deploy your own Bot! You can use this Bot immediately on Telegram here:<a href="https://t.me/DrTorrent"> Dr.Torrent (Use Now!)</a></b></h4>
