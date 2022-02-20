@@ -137,8 +137,11 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 <h4><b>3.Then copy the final code after filling and paste it <a href="https://gist.github.com/">here</a> and at place of name type "config.env" and click the Raw Button and copy the Url to it</b></a></h4>
 <h4><b>4.After that go to your forked Repository settings which you forked from this one and click secrets and create 4 Secreat from the following NAMES:<br>
 1.HEROKU_EMAIL: Enter your Heroku EMAIL ID in small.<br>
+---<br>
 2.HEROKU_API_KEY: Enter your Heroku API ID.<br>
+---<br>
 3.HEROKU_APP_NAME: Enter a unique app name.<br>
+---<br>
 4.CONFIG_FILE_URL: Enter Config.env file url which you copied from above step<br></b></h4>
 <h4><b>5.Now go to actions tab and run Workflow and let it deployed on Heroku</b></h4>
 <h5><b><i>Without Config File</i></b></h5>
@@ -147,4 +150,5 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 <h4><b>3.Click Reveal Vars and fill the variable given in config file above</b></h4>
 <h3><i>On VPS</i></h3>
 <h4><b>Get the Code from <a href="https://github.com/TheCaduceus/Dr.Torrent/blob/main/vps.md">Here</a></b></h4>
-
+<h2>❤️Credits & Thanks</h2>
+<p><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making this Powerful Bot.</p>
