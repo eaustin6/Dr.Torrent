@@ -84,25 +84,45 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 ---<br>
 /del: This Command should be used with Google Drive link provided by the Bot itself to delete it!<br>
 ---<br>
-/watch: This Command should be used to Download YouTube Videos or Playlist. The complete syntax of this command is written in above section.<br>
+/watch: This Command should be used to Download YouTube Videos or Playlist links. The complete syntax of this command is written in above section.<br>
 ---<br>
-/tarwatch [youtube-dl supported link]: Mirror through youtube-dl and tar before uploading<br>
-/cancel: Reply to the message by which the download was initiated and that download will be cancelled<br>
-/cnlall: Cancel all running tasks<br>
-/list [search term]: Searches the search term in the Google Drive, If found replies with the link<br>
+/tarwatch: This Command should be used to Download YouTube Videos or Playlist links and pack them into .tar format.<br>
+---<br>
+/cancel: Reply to the message by which the download was initiated and that download will be cancelled or send it with cancel ID<br>
+---<br>
+/cnlall: Cancel all running tasks, it can only be used by Owner.<br>
+---<br>
+/list [Your Query Here]: This command should be used to search anything in your Google Drive or Shared Drive with search term. The Search result will be shown on Telegraph.<br>
+---<br>
 /status: Shows a status of all the downloads<br>
+---<br>
 /stat: Show Stats of the machine the bot is hosted on<br>
+---<br>
 /ping: Check how long it takes to Ping the Bot<br>
+---<br>
 /auth: Authorize a chat or a user to use the bot (Can only be invoked by Owner & Sudo of the bot)<br>
+---<br>
 /unauth: Unauthorize a chat or a user to use the bot (Can only be invoked by Owner & Sudo of the bot)<br>
+---<br>
 /users: Show authorized users (Only Owner & Sudo)<br>
+---<br>
 /addsudo: Add sudo user (Only Owner)<br>
+---<br>
 /rmsudo: Remove sudo users (Only Owner)<br>
+---<br>
 /restart: Restart the bot<br>
+---<br>
 /log: Get a log file of the bot. Handy for getting crash reports<br>
+---<br>
 /config: Get Info Menu about bot config (Owner Only)<br>
+---<br>
 /update: Update Bot from Upstream Repo (Owner Only)<br>
+---<br>
 /speedtest: Check Internet Speed of the Host<br>
+---<br>
 /shell: Run commands in Shell (Terminal)<br>
+---<br>
 /exechelp: Get help for Executor module (Only Owner)<br>
+---<br>
 /gdtot: Send GDTOT link along with command <br></b></h4>
+---<br>
