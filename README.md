@@ -125,4 +125,3 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 /exechelp: Get help for Executor module (Only Owner)<br>
 ---<br>
 /gdtot: Send GDTOT link along with command <br></b></h4>
----<br>
