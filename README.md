@@ -65,10 +65,15 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 <h4><b>Here is the full list of Commands which are available in Bot! Some commands should be used as the reply or with the content discussed as above!</b></h4>
 <h4><b><br>
 /hlp: If this Command is used by Users then it will show commands which can be used by them only! But if used by owners then full list will be shown.<br>
+---<br>
 /mirror: This Command can be used as reply for Torrent File/Magnet Link or Direct Download Link or Telegram files to download them and to upload it to Google Drive. If used for downloading torrents then it will use aric as the Download Engine.<br>
+---<br>
 /mirror qb: This command can only be used for Torrents! It will guide Bot to use qBitorrent to download torrent either from file or Magnet Link.
-/mirror qbs: This command will guide Bot to use qBitorrent to download Torrent and provide Users choice to Select files before downloading it from Torrent..
-/tar <br>
+---<br>
+/mirror qbs: This command will guide Bot to use qBitorrent to download Torrent and provide Users choice to Select files before downloading it from Torrent.
+---<br>
+/tar: This Command can be used with Direct download link or Telegram Files or Google Drive Link to pack them into .tar format.<br>
+---<br>
 /zip [download_url][magnet_link]: Start mirroring and upload the archived (.zip) version of the download<br>
 /unzip [download_url][magnet_link]: Starts mirroring and if downloaded file is any archive, extracts it to Google Drive<br>
 /clone [drive_url]: Copy file/folder to Google Drive<br>
