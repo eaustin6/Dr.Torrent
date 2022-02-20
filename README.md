@@ -82,8 +82,10 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 ---<br>
 /count: This Command can be used to get the actual size of Shared Drive/My Drive/Folder or a particular file and number of files present in it. Send the Google Drive link with the command<br>
 ---<br>
-/del [drive_url]: Delete file from Google Drive (Only Owner & Sudo)<br>
-/watch [youtube-dl supported link]: Mirror through youtube-dl. Click /watch for more help<br>
+/del: This Command should be used with Google Drive link provided by the Bot itself to delete it!<br>
+---<br>
+/watch: This Command should be used to Download YouTube Videos or Playlist. The complete syntax of this command is written in above section.<br>
+---<br>
 /tarwatch [youtube-dl supported link]: Mirror through youtube-dl and tar before uploading<br>
 /cancel: Reply to the message by which the download was initiated and that download will be cancelled<br>
 /cnlall: Cancel all running tasks<br>
