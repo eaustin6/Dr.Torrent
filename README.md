@@ -127,3 +127,8 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 /exechelp: Get help for Executor module (Only Owner)<br>
 ---<br>
 /gdtot: Send GDTOT link along with command <br></b></h4>
+<h2>🎮 Deployment</h2>
+<h3><i>Heroku</i></h3>
+<h4><b>Deploying this Bot to Heroku is much easier than you think! I provided you different ways to do the samething!</b></h4>
+<h5><b><i>Using Config File</i></b></h5>
+<h4><b>1.First Download the Config.env file.</b></h4>
