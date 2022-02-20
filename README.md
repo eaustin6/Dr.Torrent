@@ -127,6 +127,8 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 /exechelp: Get help for Executor module (Only Owner)<br>
 ---<br>
 /gdtot: Send GDTOT link along with command <br></b></h4>
+<h2>🖥️ How to use?</h2>
+<h4><b>There is no need to deploy your own Bot! You can use this Bot immediately on Telegram or ask you query and problems :<a href="https://t.me/DrTorrent"> Dr.Torrent</a></b></h4>
 <h2>🎮 Deployment</h2>
 <h4>1.Before doing anything upload your Service Accounts is Token.picker,Credentals and Account folder containing the details of 100 Service Accounts to the repo you forked from this one! and keep it private.
 <h3><i>Heroku</i></h3>
