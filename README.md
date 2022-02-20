@@ -1,6 +1,5 @@
 # Dr.Torrent Bot (Advanced! 😊)
 <b>The most Powerful and Advanced Bot to Handle almost everything for which you want a telegram bot!</b>
-### ❗Warning! This Repository is only for Developers and Development purpose only❗
 ## 📑Features
 <p><b> My bot comes with tones of Features!🔥 What I say is What I have done! Masterminded to most unique and complex features & options. Please sit before reading this.😂</b></p>
 <p><b>1.Download Torrent using magnet link or Torrent File.🙂</b></p>
@@ -153,5 +152,6 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 <h4><b>3.Click Reveal Vars and fill the variable given in config file above</b></h4>
 <h3><i>On VPS</i></h3>
 <h4><b>Get the Code from <a href="https://github.com/TheCaduceus/Dr.Torrent/blob/main/vps.md">Here</a></b></h4>
+<h4><b><i>❗Warning! This Repository is only for Developers and Development purpose only❗</i><b></h4>
 <h2>❤️Credits & Thanks</h2>
 <p><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making this Powerful Bot.</p>
