@@ -62,3 +62,33 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 <h2>🛠️ Customizations</h2>
 <h4><b>Large Numbers of customizations are provided in the Bot or during the Deployment of the Bot. Onwers can customize each functions as per there needs, they can also create limitations for each functions if the Bot's going to be deployed for large groups. Owners can use there Google Drive Inde with this Bot! The bot will automatically provide the user Index link of file after uploading it. There is no need to do it manually.Bot can automatically detects the Error and tell the Error code and text for a particular situations there are already 50+ Error detectors are added to the bot to help Owner and User to get what the problem is and how to fix it.</b></h4>
 <h2>🪧 Commands</h2>
+<h4><b><br>
+ /hlp: To get this message<br>
+/mirror [download_url][magnet_link]: Start mirroring the link to Google Drive. Use /mirror qb to mirror with qBittorrent, and use /mirror qbs to select files before downloading<br>
+/tar [download_url][magnet_link]: Start mirroring and upload the archived (.tar) version of the download<br>
+/zip [download_url][magnet_link]: Start mirroring and upload the archived (.zip) version of the download<br>
+/unzip [download_url][magnet_link]: Starts mirroring and if downloaded file is any archive, extracts it to Google Drive<br>
+/clone [drive_url]: Copy file/folder to Google Drive<br>
+/count [drive_url]: Count file/folder of Google Drive Links<br>
+/del [drive_url]: Delete file from Google Drive (Only Owner & Sudo)<br>
+/watch [youtube-dl supported link]: Mirror through youtube-dl. Click /watch for more help<br>
+/tarwatch [youtube-dl supported link]: Mirror through youtube-dl and tar before uploading<br>
+/cancel: Reply to the message by which the download was initiated and that download will be cancelled<br>
+/cnlall: Cancel all running tasks<br>
+/list [search term]: Searches the search term in the Google Drive, If found replies with the link<br>
+/status: Shows a status of all the downloads<br>
+/stat: Show Stats of the machine the bot is hosted on<br>
+/ping: Check how long it takes to Ping the Bot<br>
+/auth: Authorize a chat or a user to use the bot (Can only be invoked by Owner & Sudo of the bot)<br>
+/unauth: Unauthorize a chat or a user to use the bot (Can only be invoked by Owner & Sudo of the bot)<br>
+/users: Show authorized users (Only Owner & Sudo)<br>
+/addsudo: Add sudo user (Only Owner)<br>
+/rmsudo: Remove sudo users (Only Owner)<br>
+/restart: Restart the bot<br>
+/log: Get a log file of the bot. Handy for getting crash reports<br>
+/config: Get Info Menu about bot config (Owner Only)<br>
+/update: Update Bot from Upstream Repo (Owner Only)<br>
+/speedtest: Check Internet Speed of the Host<br>
+/shell: Run commands in Shell (Terminal)<br>
+/exechelp: Get help for Executor module (Only Owner)<br>
+/gdtot: Send GDTOT link along with command <br></b></h4>
