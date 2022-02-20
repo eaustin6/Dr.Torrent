@@ -63,7 +63,7 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 <h4><b>Large Numbers of customizations are provided in the Bot or during the Deployment of the Bot. Onwers can customize each functions as per there needs, they can also create limitations for each functions if the Bot's going to be deployed for large groups. Owners can use there Google Drive Inde with this Bot! The bot will automatically provide the user Index link of file after uploading it. There is no need to do it manually.Bot can automatically detects the Error and tell the Error code and text for a particular situations there are already 50+ Error detectors are added to the bot to help Owner and User to get what the problem is and how to fix it.</b></h4>
 <h2>🪧 Commands</h2>
 <h4><b>Here is the full list of Commands which are available in Bot! Some commands should be used as the reply or with the content discussed as above!</b></h4>
-<h4><b><br>
+<h4><b>
 /hlp: If this Command is used by Users then it will show commands which can be used by them only! But if used by owners then full list will be shown.<br>
 ---<br>
 /mirror: This Command can be used as reply for Torrent File/Magnet Link or Direct Download Link or Telegram files to download them and to upload it to Google Drive. If used for downloading torrents then it will use aric as the Download Engine.<br>
@@ -76,9 +76,12 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 ---<br>
 /zip: This Command can be used with Direct download link or Telegram Files or Google Drive Link to pack them into .zip format.<br>
 ---<br>
-/unzip [download_url][magnet_link]: Starts mirroring and if downloaded file is any archive, extracts it to Google Drive<br>
-/clone [drive_url]: Copy file/folder to Google Drive<br>
-/count [drive_url]: Count file/folder of Google Drive Links<br>
+/unzip: This Command can be used with Direct download link or Telegram Files or Google Drive Link to unpack them from .zip format.<br>
+---<br>
+/clone: This Command can be used to clone Files from a Google Drive Shared Link.<br>
+---<br>
+/count: This Command can be used to get the actual size of Shared Drive/My Drive/Folder or a particular file and number of files present in it. Send the Google Drive link with the command<br>
+---<br>
 /del [drive_url]: Delete file from Google Drive (Only Owner & Sudo)<br>
 /watch [youtube-dl supported link]: Mirror through youtube-dl. Click /watch for more help<br>
 /tarwatch [youtube-dl supported link]: Mirror through youtube-dl and tar before uploading<br>
