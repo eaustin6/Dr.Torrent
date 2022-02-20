@@ -1,4 +1,4 @@
-## Run the Following code one-by-one:
+## Run the Following:
 1.To clone the Repository:
 ```
 git clone https://github.com/TheCaduceus/Dr.Torrent/
