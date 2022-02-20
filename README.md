@@ -146,12 +146,5 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 <h4><b>2.Run the Workflow and go to Heroku dashboard and then click Settings tab.</b></h4>
 <h4><b>3.Click Reveal Vars and fill the variable given in config file above</b></h4>
 <h3><i>On VPS</i></h3>
-<h4><b>Run the following Codes one-by-one:</b></h4>
-<h4><b>1.To clone the Repository:</b></h4>
-<p><b>git clone https://github.com/TheCaduceus/Dr.Torrent/<br>
-cd Dr.Torrent</b></p>
-<h4><b>2.Install Requirements:</b></h4>
-<p><b>sudo apt install python3<br>
-sudo snap install docker</b></p>
-<h4><b>Configuration</b></h4>
-<p><b>sudo pacman -S docker python</b></p>
+<h4><b>Get the Code from <a href="https://github.com/TheCaduceus/Dr.Torrent/blob/main/vps.md">Here</a></b></h4>
+
