@@ -1,6 +1,6 @@
 # Dr.Torrent Bot (Advanced! 😊)
 <b>The most Powerful and Advanced Bot to Handle almost everything for which you want a telegram bot!</b>
-<h4><b><i>❗Warning! This Repository is only for Developers and Development purpose only❗</b></h4>
+### ❗Warning! This Repository is only for Developers and Development purpose only❗
 ## 📑Features
 <p><b> My bot comes with tones of Features!🔥 What I say is What I have done! Masterminded to most unique and complex features & options. Please sit before reading this.😂</b></p>
 <p><b>1.Download Torrent using magnet link or Torrent File.🙂</b></p>
