@@ -128,7 +128,30 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 ---<br>
 /gdtot: Send GDTOT link along with command <br></b></h4>
 <h2>🎮 Deployment</h2>
+<h4>1.Before doing anything upload your Service Accounts is Token.picker,Credentals and Account folder containing the details of 100 Service Accounts to the repo you forked from this one! and keep it private.
 <h3><i>Heroku</i></h3>
 <h4><b>Deploying this Bot to Heroku is much easier than you think! I provided you different ways to do the samething!</b></h4>
 <h5><b><i>Using Config File</i></b></h5>
-<h4><b>1.First Download the Config.env file.</b></h4>
+<h4><b>1.First Copy the code from Config.env file: <a href="https://github.com/TheCaduceus/Dr.Torrent/blob/main/config.env">Show Code!</a></b></h4>
+<h4><b>2.Now paste that code in any Text Editor like Notepad and fill the values as guided in itself. If you have any doubt then ask or test the Bot <a href="https://t.me/DrTorrent">Here</a></b></h4>
+<h4><b>3.Then copy the final code after filling and paste it <a href="https://gist.github.com/">here</a> and at place of name type "config.env" and click the Raw Button and copy the Url to it</b></a></h4>
+<h4><b>4.After that go to your forked Repository settings which you forked from this one and click secrets and create 4 Secreat from the following NAMES:<br>
+1.HEROKU_EMAIL: Enter your Heroku EMAIL ID in small.<br>
+2.HEROKU_API_KEY: Enter your Heroku API ID.<br>
+3.HEROKU_APP_NAME: Enter a unique app name.<br>
+4.CONFIG_FILE_URL: Enter Config.env file url which you copied from above step<br></b></h4>
+<h4><b>5.Now go to actions tab and run Workflow and let it deployed on Heroku</b></h4>
+<h5><b><i>Without Config File</i></b></h5>
+<h4><b>1.Just create the above secret on your forked repository except CONFIG_FILE_URL</b></h4>
+<h4><b>2.Run the Workflow and go to Heroku dashboard and then click Settings tab.</b></h4>
+<h4><b>3.Click Reveal Vars and fill the variable given in config file above</b></h4>
+<h3><i>On VPS</i></h3>
+<h4><b>Run the following Codes one-by-one:</b></h4>
+<h4><b>1.To clone the Repository:</b></h4>
+<p><b>git clone https://github.com/TheCaduceus/Dr.Torrent/<br>
+cd Dr.Torrent</b></p>
+<h4><b>2.Install Requirements:</b></h4>
+<p><b>sudo apt install python3<br>
+sudo snap install docker</b></p>
+<h4><b>Configuration</b></h4>
+<p><b>sudo pacman -S docker python</b></p>
