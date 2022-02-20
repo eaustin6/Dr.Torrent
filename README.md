@@ -61,3 +61,4 @@ HFS, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS,<br>
 NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 <h2>🛠️ Customizations</h2>
 <h4><b>Large Numbers of customizations are provided in the Bot or during the Deployment of the Bot. Onwers can customize each functions as per there needs, they can also create limitations for each functions if the Bot's going to be deployed for large groups. Owners can use there Google Drive Inde with this Bot! The bot will automatically provide the user Index link of file after uploading it. There is no need to do it manually.Bot can automatically detects the Error and tell the Error code and text for a particular situations there are already 50+ Error detectors are added to the bot to help Owner and User to get what the problem is and how to fix it.</b></h4>
+<h2>🪧 Commands</h2>
