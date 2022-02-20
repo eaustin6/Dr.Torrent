@@ -33,6 +33,8 @@
 <p><b>29.Select which files need to be downloaded from Torrent.🕹️</b></p>
 <p><b>30.Specially developed for Groups.🤗</b></p>
 <p><b>31.Search Files in Google Drive.🗂️</b></p>
+<h2>🖥️ How to use?</h2>
+<h4><b>There is no need to deploy your own Bot! You can use this Bot immediately on Telegram here:<a href="https://t.me/DrTorrent"> Dr.Torrent</a></b></h4>
 <h2>📥Download Torrents</h2>
 <h4><b>The ability to download Torrents using telegram bot is too common this days!🥱 But I think why not do anything different that will amaze everyone.😲 This Bot comes with the ability to download Torrents either through Torrent File or Magnet Link, with Multi-Engine support like Aric and qBitorrent and User have the ability to choose anyone of the best Engine to download torrent more speedily and easily.🔥But it is not enough to make users experience comfortable, So I have added option through which Users can select files which needs to be downloaded from a Torrent and hence dividing the load! But wait... large number of users like to watch Movies and they need to download movies from there torrent but it is not required anymore, You can watch Movies or Files from a torrent without downloading it to your Device.👁️‍🗨️</b></h4>
 <h2>📚Clone File/Folder(s)</h2>
@@ -125,5 +127,3 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 /exechelp: Get help for Executor module (Only Owner)<br>
 ---<br>
 /gdtot: Send GDTOT link along with command <br></b></h4>
-<h2>🖥️ How to use?</h2>
-<h4><b>There is no need to deploy your own Bot! You can use this Bot immediately on Telegram here:<a href="https://t.me/DrTorrent"> Dr.Torrent (Use Now!)</a></b></h4>
